@@ -1,4 +1,5 @@
 import Recipe from "@/app/components/Recipe";
+import Recommend from "./components/Recommend";
 
 export default function Home() {
   const foodData = [
@@ -41,6 +42,16 @@ export default function Home() {
       </div>
 
       <Recipe />
+
+      <div>
+        <h2 className="text-3xl font-bold">Recommended Recipes</h2>
+        <Recommend/>
+        <div className="flex justify-center mt-8">
+          <button className="bg-green-500 text-white rounded-lg w-72 h-12 flex items-center justify-center">
+            Load More
+          </button>
+       </div>
+      </div>
     </div>
   );
 }
