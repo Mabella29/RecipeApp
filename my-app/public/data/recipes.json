@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "title": "Russian Salad",
+      "image": "/Images/rounded.png",
+      "time": "40 mins",
+      "rating": 4.5,
+      "diet": "Dairy Free"
+    },
+    {
+      "id": 2,
+      "title": "Russian Salad",
+      "image": "/Images/rounded.svg",
+      "time": "30 mins",
+      "rating": 4.7,
+      "diet": "Dairy Free"
+    },
+    {
+      "id": 3,
+      "title": "Russian Salad",
+      "image": "/Images/rounded.jpg",
+      "time": "20 mins",
+      "rating": 4.8,
+      "diet": "Dairy Free"
+    },
+    {
+      "id": 4,
+      "title": "Russian Salad",
+      "image": "/rounded.svg",
+      "time": "25 mins",
+      "rating": 4.6,
+      "diet": "Dairy Free"
+    },
+    {
+        "id": 5,
+        "title": "Russian Salad",
+        "image": "/Images/rounded.png",
+        "time": "40 mins",
+        "rating": 4.5,
+        "diet": "Dairy Free"
+      },
+      {
+        "id": 6,
+        "title": "Russian Salad",
+        "image": "/Images/rounded.svg",
+        "time": "30 mins",
+        "rating": 4.7,
+        "diet": "Dairy Free"
+      },
+      {
+        "id": 7,
+        "title": "Russian Salad",
+        "image": "/Images/rounded.jpg",
+        "time": "20 mins",
+        "rating": 4.8,
+        "diet": "Dairy Free"
+      },
+      {
+        "id": 8,
+        "title": "Russian Salad",
+        "image": "/rounded.svg",
+        "time": "25 mins",
+        "rating": 4.6,
+        "diet": "Dairy Free"
+      }
+  ]
+  
