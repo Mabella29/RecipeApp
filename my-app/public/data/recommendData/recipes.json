@@ -5,7 +5,12 @@
       "image": "/Images/rounded.svg",
       "time": "40 mins",
       "rating": 4.5,
-      "diet": "Dairy Free"
+      "diet": "Dairy Free",
+      "profiles": [
+        { "image": "/recomImg/Oval.png"},
+        { "image": "/recomImg/Oval Copy.svg"},
+        { "image": "/recomImg/Oval Copy 4.png"}
+      ]
     },
     {
       "id": 2,
@@ -13,7 +18,12 @@
       "image": "/rounded.svg",
       "time": "40 mins",
       "rating": 4.5,
-      "diet": "Dairy Free"
+      "diet": "Dairy Free",
+      "profiles": [
+        { "image": "/recomImg/Oval.png"},
+        { "image": "/recomImg/Oval Copy.svg"},
+        { "image": "/recomImg/Oval Copy 4.png"}
+      ]
     },
     {
       "id": 3,
@@ -21,7 +31,12 @@
       "image": "/recomImg/rounded.svg",
       "time": "40 mins",
       "rating": 4.5,
-      "diet": "Dairy Free"
+      "diet": "Dairy Free",
+      "profiles": [
+        { "image": "/recomImg/Oval.png"},
+        { "image": "/recomImg/Oval Copy.svg"},
+        { "image": "/recomImg/Oval Copy 4.png"}
+      ]
     },
     {
       "id": 4,
@@ -29,7 +44,12 @@
       "image": "/recomImg/rounded.jpg",
       "time": "40 mins",
       "rating": 4.5,
-      "diet": "Dairy Free"
+      "diet": "Dairy Free",
+      "profiles": [
+        { "image": "/recomImg/Oval.png"},
+        { "image": "/recomImg/Oval Copy.svg"},
+        { "image": "/recomImg/Oval Copy 4.png"}
+      ]
     },
     {
         "id": 5,
@@ -37,7 +57,12 @@
         "image": "/Images/rounded.svg",
         "time": "40 mins",
         "rating": 4.5,
-        "diet": "Dairy Free"
+        "diet": "Dairy Free",
+        "profiles": [
+          { "image": "/recomImg/Oval.png"},
+          { "image": "/recomImg/Oval Copy.svg"},
+          { "image": "/recomImg/Oval Copy 4.png"}
+        ]
       },
       {
         "id": 6,
@@ -45,7 +70,12 @@
         "image": "/rounded.svg",
         "time": "40 mins",
         "rating": 4.5,
-        "diet": "Dairy Free"
+        "diet": "Dairy Free",
+        "profiles": [
+          { "image": "/recomImg/Oval.png"},
+        { "image": "/recomImg/Oval Copy.svg"},
+        { "image": "/recomImg/Oval Copy 4.png"}
+        ]
       },
       {
         "id": 7,
@@ -53,7 +83,12 @@
         "image": "/recomImg/rounded.svg",
         "time": "40 mins",
         "rating": 4.5,
-        "diet": "Dairy Free"
+        "diet": "Dairy Free",
+        "profiles": [
+          { "image": "/recomImg/Oval.png"},
+        { "image": "/recomImg/Oval Copy.svg"},
+        { "image": "/recomImg/Oval Copy 4.png"}
+        ]
       },
       {
         "id": 8,
@@ -61,7 +96,12 @@
         "image": "/recomImg/rounded.jpg",
         "time": "40 mins",
         "rating": 4.5,
-        "diet": "Dairy Free"
+        "diet": "Dairy Free",
+        "profiles": [
+          { "image": "/recomImg/Oval.png"},
+          { "image": "/recomImg/Oval Copy.svg"},
+          { "image": "/recomImg/Oval Copy 4.png"}
+        ]
       }
   ]
   
